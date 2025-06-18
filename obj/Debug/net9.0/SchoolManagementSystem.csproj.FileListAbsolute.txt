@@ -226,3 +226,4 @@ C:\Users\bakas\Desktop\schoolmanagement\SchoolManagementSystem\obj\Debug\net9.0\
 C:\Users\bakas\Desktop\schoolmanagement\SchoolManagementSystem\obj\Debug\net9.0\SchoolManagementSystem.pdb
 C:\Users\bakas\Desktop\schoolmanagement\SchoolManagementSystem\obj\Debug\net9.0\SchoolManagementSystem.genruntimeconfig.cache
 C:\Users\bakas\Desktop\schoolmanagement\SchoolManagementSystem\obj\Debug\net9.0\ref\SchoolManagementSystem.dll
+C:\Users\bakas\Desktop\schoolmanagement\SchoolManagementSystem\obj\Debug\net9.0\SchoolManagementSystem.sourcelink.json
